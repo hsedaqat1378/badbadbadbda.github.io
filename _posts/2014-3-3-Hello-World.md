@@ -1,10 +1,24 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello iam hosein and this my first post 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My first post is about my favorite song Which always motivates forward in all situations/// love imagine dragons band 👍🙌
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+My favorite part of this song :
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+ And I know it's hard when you're falling down
+ And it's a long way up when you hit the ground
+ Get up now, get up, get up now
+ And I know it's hard when you're falling down
+ And it's a long way up when you hit the ground
+ Get up now, get up, get up now
+' Cause I'm on top of the world, 'ey
+ I'm on top of the world, 'ey
+ Waiting on this for a while now
+ Paying my dues to the dirt
+ I've been waiting to smile, 'ey
+ Been holding it in for a while, 'ey
+ Take it with me if I can
+ Been dreaming of this since a child
+ I'm on top of the world
