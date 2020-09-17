@@ -3,7 +3,7 @@ layout: post
 title: Hello iam hosein and this my first post 
 ---
 
-My first post is about my favorite song Which always motivates forward in all situations/// love imagine dragons band 👍🙌
+My first post is about my favorite song Which always motivates forward in all situations/// love imagine dragons band 👍🙌❤
 
 My favorite part of this song :
 
