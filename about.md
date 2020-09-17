@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi My Name is Hosein Sedaqat Iam sooooo fucking happy Because create this blog!!!!!!!!😁
+my hobbies:{write Code,movie,music,book}
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:77hosein88@gmail.com)
