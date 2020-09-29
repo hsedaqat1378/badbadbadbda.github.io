@@ -17,5 +17,5 @@ aboutMe = {
 I will fill it later
 ### Contact me
 
-[77hosein88@gmail.com](mailto:77hosein88@gmail.com)
+myGmail:[77hosein88@gmail.com](mailto:77hosein88@gmail.com)
 -myTelegramID:@HoseinSedaqat
