@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 aboutMe = {
@@ -17,3 +18,4 @@ I will fill it later
 ### Contact me
 
 [77hosein88@gmail.com](mailto:77hosein88@gmail.com)
+myTelegramID:@HoseinSedaqat
