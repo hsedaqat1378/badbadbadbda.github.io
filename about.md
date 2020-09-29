@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi My Name is Hosein Sedaqat Iam sooooo fucking happy Because create this blog!!!!!!!!😁
+aboutMe = {
+    "firstName": "Hosein",
+    "lastName": "Sedaqat",
+    "Age": 20,
+    "myFun": ['writeCode', 'Books', 'Movie', 'Music(only Rock)']
+}
+  
 
 ### More Information
 I will fill it later
