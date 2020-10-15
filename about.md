@@ -9,7 +9,7 @@ aboutMe = {
     "firstName": "Hosein",
     "lastName": "Sedaqat",
     "Age": 20,
-    "myFun": ['writeCode', 'Books', 'Movie&Serial', 'Queen/ImagineDragons/GreenDay']
+    "myFun": ['writeCode', 'Books', 'Movie&Serial', 'Rock-band:Queen/ImagineDragons/GreenDay']
 }
   
 
