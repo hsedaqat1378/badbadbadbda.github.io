@@ -1,25 +1,21 @@
 ---
 layout: post
-title: Firts Post
+title: My Top 10 Songs
 published: true
 ---
 
-My first post is about my favorite song Which always motivates forward in all situations/// love imagine dragons band 👍🙌❤
+My first post is about my favorite song Which always motivates forward in all situations////
 
-My favorite part of this song :
 
- And I know it's hard when you're falling down
- And it's a long way up when you hit the ground
- Get up now, get up, get up now
- And I know it's hard when you're falling down
- And it's a long way up when you hit the ground
- Get up now, get up, get up now
-' Cause I'm on top of the world, 'ey
- I'm on top of the world, 'ey
- Waiting on this for a while now
- Paying my dues to the dirt
- I've been waiting to smile, 'ey
- Been holding it in for a while, 'ey
- Take it with me if I can
- Been dreaming of this since a child
- I'm on top of the world
+1. Bohemian Rhapsody(Queen)
+2. boulevard of broken dreams(GreenDay)
+3. on top of the world(Imagine Dragons)
+4. dont Stop Me Now(Queen)
+5. fly on(ColdPlay)
+6. memories of you(Sirvan Khosravi)
+7. turn back(Sirvan Khosravi)
+8. killer Queen(Queen)
+9. Piano Albums (Yann Tiersen)
+10.Monirity(GreenDay)
+
+
