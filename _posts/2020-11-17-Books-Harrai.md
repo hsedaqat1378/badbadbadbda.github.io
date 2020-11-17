@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## yuval noah harari books
 
 
 Three books by Harari that tell the story of how we humans live from the past to the future
