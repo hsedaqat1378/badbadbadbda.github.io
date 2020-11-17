@@ -8,8 +8,7 @@ published: true
 aboutMe = {
     "firstName": "Hosein",
     "lastName": "Sedaqat",
-    "Age": 20,
-    "myFun": ['writeCode', 'Books', 'Movie&Serial', 'Rock-band:Queen/ImagineDragons/GreenDay']
+    "Age": 20
 }
   
 
