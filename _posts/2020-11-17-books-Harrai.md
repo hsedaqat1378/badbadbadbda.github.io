@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## yuval noah harari books
 
