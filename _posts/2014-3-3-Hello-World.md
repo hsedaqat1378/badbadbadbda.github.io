@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hello iam hosein and this my first post 
+title: Firts Post
+published: true
 ---
 
 My first post is about my favorite song Which always motivates forward in all situations/// love imagine dragons band 👍🙌❤
