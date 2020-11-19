@@ -14,8 +14,6 @@ My first post is about my favorite song Which always motivates forward in all si
 5. fly on(ColdPlay)
 6. memories of you(Sirvan Khosravi)
 7. turn back(Sirvan Khosravi)
-8. killer Queen(Queen)
+8. See You Again(wizkhalifa & charlie put)
 9. Piano Albums (Yann Tiersen)
 10.Monirity(GreenDay)
-
-
