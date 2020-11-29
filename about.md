@@ -13,7 +13,7 @@ aboutMe = {
   
 
 ### More Information
-I will fill it later
+a Front-End Web Developer
 ### Contact me
 
 myGmail:[77hosein88@gmail.com](mailto:77hosein88@gmail.com)
