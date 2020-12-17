@@ -13,7 +13,8 @@ aboutMe = {
   
 
 ### More Information
-a Front-End Web Developer
+### skills:
+Html / Css / Scss / javascript / Vuejs / Bootstrap
 ### Contact me
 
 Email: 77hosein88@gmail.com
