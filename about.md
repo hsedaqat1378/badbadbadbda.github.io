@@ -16,5 +16,4 @@ aboutMe = {
 a Front-End Web Developer
 ### Contact me
 
-myGmail:[77hosein88@gmail.com](mailto:77hosein88@gmail.com)
--myTelegramID:@HoseinSedaqat
+Email: 77hosein88@gmail.com
