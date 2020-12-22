@@ -14,7 +14,7 @@ aboutMe = {
 
 ### More Information
 ### skills:
-Html / Css / Scss / javascript / Vuejs / Bootstrap
+Html / Css / Scss / Bootstrap /  javascript / Vuejs
 ### Contact me
 
 Email: 77hosein88@gmail.com
