@@ -17,4 +17,4 @@ aboutMe = {
 Html / Css / Scss / Bootstrap /  javascript / Vuejs
 ### Contact me
 
-Email: 77hosein88@gmail.com
+Email: hsedaqat1378@gmail.com
