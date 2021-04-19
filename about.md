@@ -14,7 +14,7 @@ aboutMe = {
 
 ### More Information
 ### skills:
-Html / Css / Scss / Bootstrap /  javascript / Vuejs
+Html / Css / Scss / Bootstrap /  javascript / Vuejs and other cool Technology
 ### Contact me
 
 Email: hsedaqat1378@gmail.com
